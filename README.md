@@ -1,2 +1,2 @@
-# two---layer-neural-network
-A two layer network made from following grokking deeplearning book Chapter 6
+# Three---layer-neural-network
+A three layer network made from following grokking deeplearning book Chapter 6
